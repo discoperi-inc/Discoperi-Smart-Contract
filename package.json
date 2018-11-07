@@ -32,5 +32,5 @@
         "build-contracts": "sol-merger \"./contracts/*.sol\" ./build"
     },
     "author": "Mykhailo Khoroshun <mkhoroshun@vareger.com>",
-    "repository": "github.com/discoperi-inc/ERC-20-Token-Discoperi-Smart-contact"
+    "repository": "github.com/discoperi-inc/ERC-20-Token-Discoperi-smart-contract"
 }

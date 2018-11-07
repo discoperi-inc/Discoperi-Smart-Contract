@@ -1,4 +1,4 @@
-# Discoperi smart contracts
+# ERC-20-Token-Discoperi-smart-contract
 
 ## Secrets
 

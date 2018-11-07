@@ -6,7 +6,6 @@ import "openzeppelin-solidity/contracts/token/ERC20/TokenTimelock.sol";
 import "openzeppelin-solidity/contracts/ownership/Ownable.sol";
 import "./mixins/DiscoperiTokenVesting.sol";
 import "./mixins/DiscoperiTokenLockup.sol";
-import "./interfaces/IDiscoperiSale.sol";
 import "./interfaces/IDiscoperiToken.sol";
 
 
